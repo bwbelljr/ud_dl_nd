@@ -6,6 +6,6 @@ This repository includes exercises and projects from Udacity's Deep Learning Nan
 2. [Dog Breed Classifier](https://github.com/bwbelljr/ud_dl_nd/tree/master/3_cnns/project_dog_breed_classifier)
 3. [Generate TV Scripts](https://github.com/bwbelljr/ud_dl_nd/tree/master/4_rnns/project_tv_script_generation)
 4. [Generate Faces](https://github.com/bwbelljr/ud_dl_nd/tree/master/5_gans/project_face_generation)
-5. Deploy a Sentiment Analysis Model
+5. [Deploy a Sentiment Analysis Model](https://github.com/bwbelljr/ud_dl_nd/tree/master/6_deployment/project)
 
 Note that all coding exercises from lessons are coded from scratch, even if they are identical to Udacity repository.
